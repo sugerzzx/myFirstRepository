@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### These Are Just My Learning Record
+### These Are Just My Learning Records
 
 <!--
 **sugerzzx/sugerzzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
