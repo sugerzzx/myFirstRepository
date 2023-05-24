@@ -1,26 +1,26 @@
 # Ecahrts
 
-##### 1. VueCli 中安装 Echarts
+## 1. VueCli 中安装 Echarts
 
 ```shell
 npm install echarts --save
 ```
 
-##### 2. 在 VueCli 中使用 Echarts
+## 2. 在 VueCli 中使用 Echarts
 
 [略](https://echarts.apache.org/handbook/zh/get-started/)
 
 # Swiper
 
-##### 1. VueCli 中安装 Swiper
+## 1. VueCli 中安装 Swiper
 
-> Vue2 中使用的是 vue-awesome-swiper
+> Vue2 中使用的是 vue-awesome-swiper@4.1.1
 
 ```shell
-npm install swiper vue-awesome-swiper --save
+npm install vue-awesome-swiper@4 --save
 ```
 
-##### 2. 在 Vue 中使用 Swiper
+## 2. 在 Vue 中使用 Swiper
 
 > 这是一个带有分页器的 Swiper
 
@@ -78,7 +78,7 @@ export default {
 
 # Sass
 
-##### 1. VueCli 中安装 Sass
+## 1. VueCli 中安装 Sass
 
 ```shell
 npm install sass-loader sass --save-dev
@@ -87,7 +87,7 @@ npm install sass-loader sass --save-dev
 > 由于 VueCLi 无法识别 sass 语法，所以需要安装 sass-loader 和 sass
 > 由于 sass 只作为开发依赖，所以使用--save-dev
 
-##### 2. 在 VueCli 中使用 Sass
+## 2. 在 VueCli 中使用 Sass
 
 - 首先在 style 标签中添加 lang 属性
 
@@ -112,13 +112,13 @@ npm install sass-loader sass --save-dev
 
 # Less
 
-##### 1. VueCli 中安装 Less
+## 1. VueCli 中安装 Less
 
 ```shell
 npm install less-loader less --save-dev
 ```
 
-##### 2. 在 VueCli 中使用 Less
+## 2. 在 VueCli 中使用 Less
 
 - 首先在 style 标签中添加 lang 属性
 
@@ -140,3 +140,7 @@ div {
 }
 </style>
 ```
+
+# Nprogress
+
+**在隔壁的 [VueRouter.md](./LearningVueRouter.md) 中**
